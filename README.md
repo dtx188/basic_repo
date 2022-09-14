@@ -1,3 +1,3 @@
-#HEADING
+# HEADING
 
 Sample file for committing
